@@ -19,8 +19,5 @@ public class DeMorganComparison {
         //преобразованное
         boolean d = !(!a & !b);
         System.out.println(d);
-
-
     }
-
 }
